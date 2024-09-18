@@ -1,2 +1,2 @@
 # CleanMBR
-CleanMBR - Program for erasing MBR system partition
+CleanMBR - Program for erasing MBR system partition. A program for erasing the MBR system partition. This program is dangerous because it erases the important system partition of your computer and hard drive, which is responsible for launching the operating system. I recommend downloading and running the program on a virtual machine. I am not responsible for your actions or your computers.
